@@ -1,0 +1,36 @@
+//name of the map
+Map of Doom!
+
+//times to run the program
+10
+
+//Length of the map (including water)
+15
+
+//Width of the map (including water)
+18
+
+/****************************************
+* 0 = water, bad space			*
+* 1 = bridges to win & openSpace	*
+* 2 = starting pos of Mouse		*
+* 3 = starting pos of Cat		*
+* 4 = Mouse food to reset counter	*
+* 5 = Mouse holes to hide from cat	*
+****************************************/
+
+001000000000000000
+011111111111141110
+011131111111115110
+011111111111111110
+011111111111111110
+011111111111111111
+011151111111111110
+011111111111111110
+111111111111211110
+011111511111111110
+011111111111111510
+011141111111111110
+011111111111141110
+051111111111111110
+001000001000000000
